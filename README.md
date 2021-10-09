@@ -22,4 +22,11 @@ Hence, I will open PG Admin 4 and start the process of reading the script we do
 2) Give a name to the database and save it
 <img src="https://user-images.githubusercontent.com/69978184/136666252-37185925-ff79-4011-b7bd-f0fec304faf7.png" width="500" height="500"/>
 
-3) Load the script into Query Tool
+3) Load the script into Query Tool by using the right click on SportsDB and select Query Tools
+
+<img src="https://user-images.githubusercontent.com/69978184/136666370-ee9890ec-c570-4b96-bf05-1f985ceb9eca.png" width="500" height="500"/>
+
+4) Once you have already opened the Query Tool just import the script.sql for it
+
+
+
