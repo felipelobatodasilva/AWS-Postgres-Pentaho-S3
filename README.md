@@ -19,6 +19,5 @@ Hence, I will open PG Admin 4 and start the process of reading the script we do
 1) Use the right click of the mouse on Databases and then Select Create -> Database
 <img src="https://user-images.githubusercontent.com/69978184/136665826-5a20504a-2d9a-48e9-89a5-3a155828a494.png" width="500" height="500"/>
 
-2) Give a name to the 
-<img src="https://user-images.githubusercontent.com/69978184/136665879-af3236ef-5a61-41df-b70a-fac75115122a.png" width="500" height="500"/>
-
+2) Give a name to the database and save it
+<img src="https://user-images.githubusercontent.com/69978184/136666252-37185925-ff79-4011-b7bd-f0fec304faf7.png" width="500" height="500"/>
