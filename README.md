@@ -36,3 +36,8 @@ For that just clck on open file icon
 
 # Making Full Backup from Database
 
+1) Open Prompt Command and type CD + Local Path for Postgres
+<img src="https://user-images.githubusercontent.com/69978184/136667015-b2772e9d-b2b8-4403-8f73-6fae7bf28452.png" width="300" height="300"/>
+
+
+
