@@ -19,6 +19,8 @@ Hence, I will open PG Admin 4 and start the process of reading the script we do
 1) Use the right click of the mouse on Databases and then Select Create -> Database
 ![image](https://user-images.githubusercontent.com/69978184/136665826-5a20504a-2d9a-48e9-89a5-3a155828a494.png)
 
+<a href="url"><img src="https://user-images.githubusercontent.com/69978184/136665826-5a20504a-2d9a-48e9-89a5-3a155828a494.png" align="left" height="48" width="48" ></a>
+
 <img src="(https://user-images.githubusercontent.com/69978184/136665826-5a20504a-2d9a-48e9-89a5-3a155828a494.png" width="48">
 2) Give a name to the 
 
