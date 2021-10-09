@@ -29,8 +29,5 @@ Hence, I will open PG Admin 4 and start the process of reading the script we do
 4) Once you have already opened the Query Tool just import the script.sql for it. 
 Now is essential that you remember where you saved it as mentioned previously.
 For that just clck on open file icon
-<img src="https://user-images.githubusercontent.com/69978184/136666370-ee9890ec-c570-4b96-bf05-1f985ceb9eca.png" width="300" height="300"/>
-
-
-
+<img src="https://user-images.githubusercontent.com/69978184/136666568-688e4518-ca9b-4b8d-a7c0-ffd49c49e167.png" width="300" height="300"/>
 
