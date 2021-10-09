@@ -39,5 +39,5 @@ For that just clck on open file icon
 1) Open Prompt Command and type CD + Local Path for Postgres
 <img src="https://user-images.githubusercontent.com/69978184/136667015-b2772e9d-b2b8-4403-8f73-6fae7bf28452.png" width="750" height="300"/>
 
-
-
+2) Type pg_dump -h localhost -p 5432 -U postgres SportsDB > D:\SportsDB.sql and put your password to complete the process
+![image](https://user-images.githubusercontent.com/69978184/136667180-01100ed5-1258-46b4-ae15-7b2a7c58f307.png)
