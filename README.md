@@ -17,10 +17,8 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 Hence, I will open PG Admin 4 and start the process of reading the script we do
 
 1) Use the right click of the mouse on Databases and then Select Create -> Database
-![image](https://user-images.githubusercontent.com/69978184/136665826-5a20504a-2d9a-48e9-89a5-3a155828a494.png)
-
 <img src="https://user-images.githubusercontent.com/69978184/136665826-5a20504a-2d9a-48e9-89a5-3a155828a494.png" width="450" height="450"/>
-2) Give a name to the 
 
-![image](https://user-images.githubusercontent.com/69978184/136665879-af3236ef-5a61-41df-b70a-fac75115122a.png)
+2) Give a name to the 
+<img src="https://user-images.githubusercontent.com/69978184/136665879-af3236ef-5a61-41df-b70a-fac75115122a.png" width="450" height="450"/>
 
