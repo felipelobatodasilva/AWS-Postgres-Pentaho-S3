@@ -34,7 +34,7 @@ For that just clck on open file icon
 5) Then, just Run the Script and if everything is ok, then a message of "Query returned Successfully" will be shown
 <img src="https://user-images.githubusercontent.com/69978184/136666752-0b6e05b5-bc66-443d-b0bf-0b812a923402.png" width="500" height="300"/>
 
-## Making Full Backup from Database
+### Making Full Backup from Database
 
 1) Open Prompt Command and type CD + Local Path for Postgres
 ![image](https://user-images.githubusercontent.com/69978184/136667015-b2772e9d-b2b8-4403-8f73-6fae7bf28452.png)
