@@ -44,3 +44,5 @@ For that just clck on open file icon
 # Integrating Postgres with Pentaho
 
 Access the following link in order to install pentaho at your local machine: https://medium.com/@databool/pentaho-data-integration-pdi-guia-de-instala%C3%A7%
+
+After doing that, just unzip the file downloaded and start the installation.
