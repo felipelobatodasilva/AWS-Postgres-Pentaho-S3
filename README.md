@@ -1,9 +1,9 @@
 # Table of Contents  
-[Preparing Database to Make a Full Backup](#Prepare)  
-[Integrating Postgres with Pentaho](#Integrating)  
+[Preparing Database to Make a Full Backup](#prepare)  
+[Integrating Postgres with Pentaho](#integrate)  
 
-<a name="Prepare"/>
-# Preparing Database to Make a Full Backup
+<a name="prepare"/>
+## Preparing Database to Make a Full Backup
 
 In this tutorial, I will show how to create a sample database downloaded on the web known as SportsDB for Postgres.
 
