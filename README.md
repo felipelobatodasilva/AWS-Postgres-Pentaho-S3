@@ -3,8 +3,6 @@
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="Preparing Database to Make a Full Backup"/>
-## Headers
-
 ## Preparing Database to Make a Full Backup
 
 In this tutorial, I will show how to create a sample database downloaded on the web known as SportsDB for Postgres.
