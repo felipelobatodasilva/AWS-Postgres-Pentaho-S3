@@ -3,7 +3,7 @@
 [Integrating Postgres with Pentaho](#integrate)  
 
 <a name="prepare"/>
-## Preparing Database to Make a Full Backup
+# Preparing Database to Make a Full Backup
 
 In this tutorial, I will show how to create a sample database downloaded on the web known as SportsDB for Postgres.
 
