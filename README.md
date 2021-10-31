@@ -1,3 +1,10 @@
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 # Preparing Database to Make a Full Backup
 
 In this tutorial, I will show how to create a sample database downloaded on the web known as SportsDB for Postgres.
