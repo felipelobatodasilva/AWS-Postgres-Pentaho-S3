@@ -2,7 +2,7 @@
 [Preparing Database to Make a Full Backup](#Preparing Database to Make a Full Backup)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="Preparing Database to Make a Full Backup)"/>
+<a name="Preparing Database to Make a Full Backup"/>
 ## Headers
 
 ## Preparing Database to Make a Full Backup
