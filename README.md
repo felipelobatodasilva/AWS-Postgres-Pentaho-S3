@@ -1,5 +1,5 @@
 ##### Table of Contents  
-[Headers](#headers)  
+[Preparing Database to Make a Full Backup](# Preparing Database to Make a Full Backup)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
