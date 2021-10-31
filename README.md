@@ -3,7 +3,7 @@
 [Integrating Postgres with Pentaho](#Integrating)  
 
 <a name="Prepare"/>
-## Preparing Database to Make a Full Backup
+# Preparing Database to Make a Full Backup
 
 In this tutorial, I will show how to create a sample database downloaded on the web known as SportsDB for Postgres.
 
@@ -47,7 +47,7 @@ For that just clck on open file icon
 ![image](https://user-images.githubusercontent.com/69978184/136667180-01100ed5-1258-46b4-ae15-7b2a7c58f307.png)
 
 <a name="Integrating"/>
-## Integrating Postgres with Pentaho
+# Integrating Postgres with Pentaho
 
 Access the following link in order to install pentaho at your local machine: https://medium.com/@databool/pentaho-data-integration-pdi-guia-de-instala%C3%A7%
 
