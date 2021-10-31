@@ -1,4 +1,4 @@
-##### Table of Contents  
+# Table of Contents  
 [Preparing Database to Make a Full Backup](#Prepare)  
 [Emphasis](#emphasis)  
 ...snip...    
