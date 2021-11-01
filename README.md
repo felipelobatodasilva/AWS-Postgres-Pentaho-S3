@@ -85,7 +85,8 @@ For that is requested to have an AWS Access Key ID and Secret Access Key and can
 
 After that you can access the provided [link](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html) by AWS where you can follow the step-by-step guide
 
-It will be shown above, but it does not mean that this way will be the same on your local machine<br/>
+It will be shown above, but it does not mean that this way will be the same on your local machine. Below, we have the following steps:<br/>
+
 ➤  Create .aws folder<br/>
 ➤  Create Config and Credential files using Notepad ++<br/>
 ➤  Save these created files in .aws folder<br/>
