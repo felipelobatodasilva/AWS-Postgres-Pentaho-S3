@@ -85,6 +85,13 @@ For that is requested to have an AWS Access Key ID and Secret Access Key and can
 
 After that you can access the provided [link](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html) by AWS where you can follow the step-by-step guide
 
+It will be shown above, but it does not mean that this way will be the same on your local machine
+➤  Create .aws folder
+➤  Create Config and Credential files using Notepad ++
+➤  Save these created files in .aws folder
+
+<img src="https://user-images.githubusercontent.com/69978184/139674620-bbf7128f-aa51-4326-aa8f-5e41fbf061ea.png" width="500" height="300"/>
+
 ## Creating two samples of Transformation in Pentaho Data Integration
 
 The first Transformation has to do with Getting a specific table, create a filter just selecting the columns desired and generate an excel file saved on local machine.
