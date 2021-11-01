@@ -95,7 +95,7 @@ It will be shown above, but it does not mean that this way will be the same on y
 
 <img src="https://user-images.githubusercontent.com/69978184/139676177-baee0ef3-6225-402f-9995-35b4a8d2716c.png" width="500" height="200"/>
 
-<img src="https://user-images.githubusercontent.com/69978184/139676295-a1006295-f50b-45fd-b98f-6c6379f34428.png" width="500" height="200"/>
+<img src="https://user-images.githubusercontent.com/69978184/139676513-cd3c4775-ae22-4e39-901b-79db9a122450.png" width="500" height="200"/>
 
 ## Creating two samples of Transformation in Pentaho Data Integration
 
