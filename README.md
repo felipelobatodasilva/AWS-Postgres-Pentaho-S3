@@ -126,3 +126,10 @@ By following the step-by-step for this process, just click on the run icon to ch
 <img src="https://user-images.githubusercontent.com/69978184/139611265-f52c77b8-ddc1-4333-8682-d65596c9d747.png" width="500" height="300"/>
 
 The second Transformation gets the data from CSV input and put it into a S3 bucket.
+
+Before starting this transformation, it will be needed to select four items to complete this first task and here they are:<br/>
+
+➤ Table Input<br/>
+➤ Select Values<br/>
+
+<img src="https://user-images.githubusercontent.com/69978184/139678146-c46545c4-d0a0-47a4-bbab-457da88999e7.png" width="500" height="300"/>
