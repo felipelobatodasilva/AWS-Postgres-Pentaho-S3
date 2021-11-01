@@ -93,6 +93,10 @@ It will be shown above, but it does not mean that this way will be the same on y
 
 <img src="https://user-images.githubusercontent.com/69978184/139674620-bbf7128f-aa51-4326-aa8f-5e41fbf061ea.png" width="500" height="200"/>
 
+<img src="https://user-images.githubusercontent.com/69978184/139676177-baee0ef3-6225-402f-9995-35b4a8d2716c.png)" width="500" height="200"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/139676295-a1006295-f50b-45fd-b98f-6c6379f34428.png)" width="500" height="200"/>
+
 ## Creating two samples of Transformation in Pentaho Data Integration
 
 The first Transformation has to do with Getting a specific table, create a filter just selecting the columns desired and generate an excel file saved on local machine.
