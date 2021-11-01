@@ -1,6 +1,6 @@
 # Table of Contents  
 [Preparing Database to Make a Full Backup](#Preparing%201%20Database%201%20to%201%20Make%201%20a%201%20Full%201%20Backup)  
-[Integrating Postgres with Pentaho](#Integrating%201%20Postgres%201%20with%201%20Pentaho)  
+[Setting Up Postgres](#Setting%201%20Up%201%20Postgres)  
 
 # Preparing Database to Make a Full Backup
 
@@ -46,8 +46,11 @@ For that just clck on open file icon
 ![image](https://user-images.githubusercontent.com/69978184/136667180-01100ed5-1258-46b4-ae15-7b2a7c58f307.png)
 
 
-# Integrating Postgres with Pentaho
+# Setting Up Postgres
 
 Access the following link in order to install pentaho at your local machine: https://medium.com/@databool/pentaho-data-integration-pdi-guia-de-instala%C3%A7%
 
-After doing that, just unzip the file downloaded and start the installation.
+After doing that, just unzip the file downloaded in a specified path and get started with pentaho
+
+
+## Integrating Postgres with Pentaho
