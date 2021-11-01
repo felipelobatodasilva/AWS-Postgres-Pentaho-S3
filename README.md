@@ -133,3 +133,5 @@ Before starting this transformation, it will be needed to select four items to c
 ➤ Select Values<br/>
 
 <img src="https://user-images.githubusercontent.com/69978184/139678146-c46545c4-d0a0-47a4-bbab-457da88999e7.png" width="500" height="300"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/139678519-f9c225cc-0127-41ec-b49d-2b11aea2c0fc.png" width="500" height="300"/>
