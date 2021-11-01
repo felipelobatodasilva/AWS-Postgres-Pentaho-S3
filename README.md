@@ -81,7 +81,7 @@ if you wanna check whether the connection is working properly or not, just click
 
 The first Transformation has to do with Getting a specific table, create a filter just selecting the columns desired and generate an excel file saved on local machine.
 
-Before starting this transformation, it will be needed to select four items to complete this task and here they are:<br/>
+Before starting this transformation, it will be needed to select four items to complete this first task and here they are:<br/>
 ➤ Table Input<br/>
 ➤ Select Values<br/>
 ➤ Text File<br/>
