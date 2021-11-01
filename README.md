@@ -77,7 +77,7 @@ if you wanna check whether the connection is working properly or not, just click
 
 # Pentaho Data Integration
 
-## Creating two samples of Transformations in Pentaho Data Integration
+## Creating two samples of Transformation in Pentaho Data Integration
 
 The first Transformation has to do with Getting a specific table, create a filter just selecting the columns desired and generate an excel file saved on local machine.
 
@@ -89,4 +89,4 @@ Before starting this transformation, it will be needed to select four items to c
 
 Now, We will see the step-by-step process to complete this task:
 
-
+<img src="https://user-images.githubusercontent.com/69978184/139609940-d4a36760-6a28-4bbd-8a3e-4c6a58c7e1f9.png" width="500" height="300"/>
