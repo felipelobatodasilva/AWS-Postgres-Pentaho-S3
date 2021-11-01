@@ -1,7 +1,7 @@
 # Table of Contents  
 ● [Preparing Database to Make a Full Backup](#Preparing%201%20Database%201%20to%201%20Make%201%20a%201%20Full%201%20Backup)  
 ● [Setting Up Postgres](#Setting%201%20Up%201%20Postgres)<br/>
-&emsp;◌ [Integrating Postgres with Pentaho](#Integrating%201%20Postgres%201%20with%201%20Pentaho)
+&emsp;◌ [Connecting Postgres with Pentaho](#Connecting%201%20Postgres%201%20with%201%20Pentaho)
 
   
 
@@ -56,4 +56,4 @@ Access the following link in order to install pentaho at your local machine: htt
 After doing that, just unzip the file downloaded in a specified path and get started with pentaho
 
 
-## Integrating Postgres with Pentaho
+## Connecting Postgres with Pentaho
