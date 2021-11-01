@@ -90,7 +90,7 @@ It will be shown above, but it does not mean that this way will be the same on y
 ➤  Create Config and Credential files using Notepad ++
 ➤  Save these created files in .aws folder
 
-<img src="https://user-images.githubusercontent.com/69978184/139674620-bbf7128f-aa51-4326-aa8f-5e41fbf061ea.png" width="500" height="00"/>
+<img src="https://user-images.githubusercontent.com/69978184/139674620-bbf7128f-aa51-4326-aa8f-5e41fbf061ea.png" width="500" height="200"/>
 
 ## Creating two samples of Transformation in Pentaho Data Integration
 
