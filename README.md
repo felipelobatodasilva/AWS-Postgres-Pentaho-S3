@@ -38,7 +38,7 @@ Hence, I will open PG Admin 4 and start the process of reading the script we do
 4) Once you have already opened the Query Tool just import the script.sql for it. 
 That is why, it is important you must remember where you saved it
 For that just clck on open file icon
-<img src="https://user-images.githubusercontent.com/69978184/136666568-688e4518-ca9b-4b8d-a7c0-ffd49c49e167.png" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/69978184/136666568-688e4518-ca9b-4b8d-a7c0-ffd49c49e167.png" width="500" height="300"/>
 
 5) Then, just Run the Script and if everything is ok, then a message of "Query returned Successfully" will be shown
 <img src="https://user-images.githubusercontent.com/69978184/136666752-0b6e05b5-bc66-443d-b0bf-0b812a923402.png" width="500" height="300"/>
