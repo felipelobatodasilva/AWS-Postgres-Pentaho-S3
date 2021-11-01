@@ -81,7 +81,7 @@ if you wanna check whether the connection is working properly or not, just click
 
 We're gonna use S3 with Pentaho further, then before that We'll need to set up the credentials to make it possible.
 
-AWS provides a [link]https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html(url) where you can follow the step-by-step guide
+AWS provides a [link](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html) where you can follow the step-by-step guide
 
 
 
