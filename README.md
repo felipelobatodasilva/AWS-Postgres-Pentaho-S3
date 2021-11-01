@@ -1,7 +1,7 @@
 # Table of Contents  
 ● [Preparing Database to Make a Full Backup](#Preparing%201%20Database%201%20to%201%20Make%201%20a%201%20Full%201%20Backup)  
 ● [Setting Up Postgres](#Setting%201%20Up%201%20Postgres)<br/>
-    ◌
+&emsp;◌
   
 
 # Preparing Database to Make a Full Backup
