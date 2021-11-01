@@ -73,4 +73,4 @@ if you wanna check whether the connection is working properly or not, just click
 
 <img src="https://user-images.githubusercontent.com/69978184/139608292-60dc26d0-c9a3-44e8-9d6a-12d1fb1d0d51.png" width="400" height="200"/>
 
-as shown above the connect is ready to be used
+as shown above the connection is ready to be used
