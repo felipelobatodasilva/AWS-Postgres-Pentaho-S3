@@ -67,4 +67,5 @@ and then Click on the File Tab -> Database Connection<br/>
 
 As In our case, we're gonna use postgres as database, so We'll Select this one and fill it with its respective configuration fields that has been set up locally
 
+<img src="https://user-images.githubusercontent.com/69978184/139608134-581d4781-147c-443c-8edc-6195adfacde9.png" width="500" height="500"/>
 
