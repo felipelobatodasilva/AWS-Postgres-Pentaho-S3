@@ -140,3 +140,5 @@ Before starting this transformation, it will be needed to select four items to c
 
 <img src="https://user-images.githubusercontent.com/69978184/139680243-3dbcfb18-29b4-427e-8378-ad4d8be747e3.png" width="500" height="300"/>
 
+<img src="https://user-images.githubusercontent.com/69978184/139680609-744639db-c8a2-44bf-aab0-71696c669bc6.png" width="500" height="300"/>
+
