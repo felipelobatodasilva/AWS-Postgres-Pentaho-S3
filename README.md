@@ -101,7 +101,7 @@ Now, We will see the step-by-step process to complete this task:
 
 <img src="https://user-images.githubusercontent.com/69978184/139610725-988d1d3d-faa8-44f3-968b-a9a4060a36ea.png" width="500" height="300"/>
 
-By following this step-by-step for this process, just click on the run icon to check whether the process is running properly. You don't need to finish up the process to try it out, it means that as you are creating the transformation as shown above, you can run to test it before going to the next step and so on. At the end, you will get something like this, mostly after running it:
+By following the step-by-step for this process, just click on the run icon to check whether the process is running properly. You don't need to finish up the process to try it out, it means that as you are creating the transformation as shown above, you can run to test it before going to the next step and so on. At the end, you will get something like this, mostly after running it:
 
 <img src="https://user-images.githubusercontent.com/69978184/139611265-f52c77b8-ddc1-4333-8682-d65596c9d747.png" width="500" height="300"/>
 
