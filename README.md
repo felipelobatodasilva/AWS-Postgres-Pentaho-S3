@@ -17,7 +17,7 @@ http://www.sportsdb.org/sd/samples
 
 Once you've downloaded this file and unzip the script to a specific path as choosen by you, don't forget where is it!
 
-Before, you keep doing the footsteps, I recommend you to check whether Postgres 11 version is installed on your local machine.
+Before, you keep doing the step-by-step guide, I recommend you to check whether Postgres 11 version is installed on your local machine.
 
 If you don't have Postgres version 11 installed yet. Just ckick on the link below to download it
 
