@@ -77,6 +77,14 @@ if you wanna check whether the connection is working properly or not, just click
 
 # Pentaho Data Integration
 
+## Setting Up AWS credentials to be used with Pentaho
+
+We're gonna use S3 with Pentaho further, then before that We'll need to set up the credentials to make it possible.
+
+AWS provides a [link]https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html(url) where you can follow the step-by-step guide
+
+
+
 ## Creating two samples of Transformation in Pentaho Data Integration
 
 The first Transformation has to do with Getting a specific table, create a filter just selecting the columns desired and generate an excel file saved on local machine.
