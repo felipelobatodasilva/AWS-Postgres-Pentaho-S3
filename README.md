@@ -58,8 +58,9 @@ After doing that, just unzip the file downloaded in a specified path and get sta
 
 ## Connecting Postgres with Pentaho
 
-Once you have set up your Pentaho Environment to be used, you'll need to create a transformation by following the step shown below:
+Once you have set up your Pentaho Environment to be used, you'll need to create a transformation by following the step shown below:<br/>
 <img src="https://user-images.githubusercontent.com/69978184/139607565-b91f13dc-7df8-42ba-901a-ea4ee56678de.png" width="500" height="300"/>
 
 and then Click on the File Tab -> Database Connection:<br/>
+<br/>
 <img src="https://user-images.githubusercontent.com/69978184/139607715-89606284-d841-47ae-98b2-da761ab54a26.png" width="500" height="300"/>
