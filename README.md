@@ -2,7 +2,8 @@
 ● [Preparing Database to Make a Full Backup](#Preparing%201%20Database%201%20to%201%20Make%201%20a%201%20Full%201%20Backup)  
 ● [Setting Up Postgres](#Setting%201%20Up%201%20Postgres)<br/>
 &emsp;◌ [Connecting Postgres with Pentaho](#Connecting%201%20Postgres%201%20with%201%20Pentaho)<br/>
-● [Creating two samples of Transformations in Pentaho Data Integration](#Creating%201%20two%201%20samples%201%20of%201%20Transformations%201%20in%201%20Pentaho%201%20Data%201%20Integration)<br/>
+● [Pentaho Data Integration](#Pentaho%201%20Data%201%20Integration)<br/>
+&emsp;◌ [Creating two samples of Transformations in Pentaho Data Integration](#Creating%201%20two%201%20samples%201%20of%201%20Transformations%201%20in%201%20Pentaho%201%20Data%201%20Integration)<br/>
 
   
 
@@ -74,4 +75,6 @@ if you wanna check whether the connection is working properly or not, just click
 
 <img src="https://user-images.githubusercontent.com/69978184/139608292-60dc26d0-c9a3-44e8-9d6a-12d1fb1d0d51.png" width="400" height="200"/>
 
-# Creating two samples of Transformations in Pentaho Data Integration
+# Pentaho Data Integration
+
+## Creating two samples of Transformations in Pentaho Data Integration
