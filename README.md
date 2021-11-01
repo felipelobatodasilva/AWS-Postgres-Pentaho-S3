@@ -78,3 +78,15 @@ if you wanna check whether the connection is working properly or not, just click
 # Pentaho Data Integration
 
 ## Creating two samples of Transformations in Pentaho Data Integration
+
+The first Transformation has to do with Getting a specific table, create a filter just selecting the columns desired and generate an excel file saved on local machine.
+
+Before starting this transformation, it will be needed to select four items to complete this task and here they are:
+➤ Table Input
+➤ Select Values
+➤ Text File
+➤ Microsoft Excel Output
+
+Now, We will see the step-by-step process to complete this task:
+
+
