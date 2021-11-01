@@ -71,5 +71,5 @@ As In our case, we're gonna use postgres as database, so We'll Select this one a
 
 if you wanna check whether the connection is working properly or not, just click on Test button,
 
-<img src="https://user-images.githubusercontent.com/69978184/139608292-60dc26d0-c9a3-44e8-9d6a-12d1fb1d0d51.png" width="500" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/139608292-60dc26d0-c9a3-44e8-9d6a-12d1fb1d0d51.png" width="300" height="200"/>
 
