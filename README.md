@@ -69,8 +69,7 @@ As In our case, we're gonna use postgres as database, so We'll Select this one a
 
 <img src="https://user-images.githubusercontent.com/69978184/139608134-581d4781-147c-443c-8edc-6195adfacde9.png" width="500" height="400"/>
 
-if you wanna check whether the connection is working properly or not, just click on Test button,
+if you wanna check whether the connection is working properly or not, just click on Test button
 
 <img src="https://user-images.githubusercontent.com/69978184/139608292-60dc26d0-c9a3-44e8-9d6a-12d1fb1d0d51.png" width="400" height="200"/>
 
-as shown above the connection is ready to be used
