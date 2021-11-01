@@ -90,3 +90,5 @@ Before starting this transformation, it will be needed to select four items to c
 Now, We will see the step-by-step process to complete this task:
 
 <img src="https://user-images.githubusercontent.com/69978184/139609940-d4a36760-6a28-4bbd-8a3e-4c6a58c7e1f9.png" width="500" height="300"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/139610076-75f92ad4-4c16-4fa4-9bb4-f5334d1cefd1.png" width="500" height="300"/>
