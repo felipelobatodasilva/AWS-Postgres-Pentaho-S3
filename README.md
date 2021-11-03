@@ -1,11 +1,9 @@
 # Table of Contents  
 ● [Preparing Database to Make a Full Backup](#preparingdatabasetomake)  
-● [Setting Up Postgres](#settinguppostgres)<br/>
-&emsp;◌ [Connecting Postgres with Pentaho](#Connecting%201%20Postgres%201%20with%201%20Pentaho)<br/>
+● [Setting Up Postgres](#settinguppostgres)
+&emsp;◌ [Connecting Postgres with Pentaho](#connectingpostgrestopentaho)<br/>
 ● [Pentaho Data Integration](#Pentaho%201%20Data%201%20Integration)<br/>
 &emsp;◌ [Creating two samples of Transformations in Pentaho Data Integration](#Creating%201%20two%201%20samples%201%20of%201%20Transformations%201%20in%201%20Pentaho%201%20Data%201%20Integration)<br/>
-
-  
 
 # Preparing Database to Make a Full Backup <a name="preparingdatabasetomake"></a>
 
@@ -57,7 +55,7 @@ Access the following link in order to install pentaho at your local machine: htt
 After doing that, just unzip the file downloaded in a specified path and get started with pentaho
 
 
-## Connecting Postgres with Pentaho
+## Connecting Postgres with Pentaho <a name="connectingpostgrestopentaho"></a>
 
 Once you have set up your Pentaho Environment to be used, you'll need to create a transformation by following the step shown below:<br/>
 <img src="https://user-images.githubusercontent.com/69978184/139607565-b91f13dc-7df8-42ba-901a-ea4ee56678de.png" width="500" height="300"/>
