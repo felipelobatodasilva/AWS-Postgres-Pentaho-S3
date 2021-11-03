@@ -143,6 +143,6 @@ Before starting this transformation, it will be needed to select four items to c
 
 ## Creating a Job by Using Two Recent Transformations <a name="creatingajobby"></a>
 
-When tinking with the system, you can see this icon <img src="https://user-images.githubusercontent.com/69978184/139680609-744639db-c8a2-44bf-aab0-71696c669bc6.png" width="100" height="100"/> and choose either job or transformation. In this case, we're gonna click on job and then build this until its design will be something like as shown below:
+When tinking with the system, you can see this icon <img src="https://user-images.githubusercontent.com/69978184/140004693-ac0367f7-cec7-4fc2-bff3-2e4c1122afa7.png" width="100" height="100"/> and choose either job or transformation. In this case, we're gonna click on job and then build this until its design will be something like as shown below:
 
 <img src="https://user-images.githubusercontent.com/69978184/140004575-13b3840b-aafd-43b9-9875-4850cbe15b85.png" width="500" height="300"/>
