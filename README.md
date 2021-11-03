@@ -1,8 +1,8 @@
 # Table of Contents  
 ● [Preparing Database to Make a Full Backup](#preparingdatabasetomake)  
 ● [Setting Up Postgres](#settinguppostgres)<br/>
-&emsp;◌ [Connecting Postgres with Pentaho](#connectingpostgrestopentaho)
-● [Pentaho Data Integration](#Pentaho%201%20Data%201%20Integration)<br/>
+&emsp;◌ [Connecting Postgres with Pentaho](#connectingpostgrestopentaho)<br/>
+● [Pentaho Data Integration](#pentahodataintegration)<br/>
 &emsp;◌ [Creating two samples of Transformations in Pentaho Data Integration](#Creating%201%20two%201%20samples%201%20of%201%20Transformations%201%20in%201%20Pentaho%201%20Data%201%20Integration)<br/>
 
 # Preparing Database to Make a Full Backup <a name="preparingdatabasetomake"></a>
