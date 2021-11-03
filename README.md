@@ -4,7 +4,7 @@
 &emsp;◌ [Connecting Postgres with Pentaho](#connectingpostgrestopentaho)<br/>
 ● [Pentaho Data Integration](#pentahodataintegration)<br/>
 &emsp;◌ [Setting Up AWS credentials to be used with Pentaho](#settingupawscredentials)<br/>
-&emsp;◌ [Creating two samples of Transformations in Pentaho Data Integration](#creatingtwosamples)<br/>
+&emsp;◌ [Creating Two Samples of Transformations in Pentaho Data Integration](#creatingtwosamples)<br/>
 
 # Preparing Database to Make a Full Backup <a name="preparingdatabasetomake"></a>
 
@@ -95,7 +95,7 @@ It will be shown above, but it does not mean that this way will be the same on y
 
 <img src="https://user-images.githubusercontent.com/69978184/139676513-cd3c4775-ae22-4e39-901b-79db9a122450.png" width="400" height="200"/>
 
-## Creating two samples of Transformation in Pentaho Data Integration <a name="creatingtwosamples"></a>
+## Creating Two Samples of Transformation in Pentaho Data Integration <a name="creatingtwosamples"></a>
 
 The first Transformation has to do with Getting a specific table, create a filter just selecting the columns desired and generate an excel file saved on local machine.
 
