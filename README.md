@@ -1,6 +1,6 @@
 # Table of Contents  
 ● [Preparing Database to Make a Full Backup](#Preparing%201%20Database%201%20to%201%20Make%201%20a%201%20Full%201%20Backup)  
-● [Setting Up Postgres](settinguppostgres)<br/>
+● [Setting Up Postgres](#Setting Up Postgres)<br/>
 &emsp;◌ [Connecting Postgres with Pentaho](#Connecting%201%20Postgres%201%20with%201%20Pentaho)<br/>
 ● [Pentaho Data Integration](#Pentaho%201%20Data%201%20Integration)<br/>
 &emsp;◌ [Creating two samples of Transformations in Pentaho Data Integration](#Creating%201%20two%201%20samples%201%20of%201%20Transformations%201%20in%201%20Pentaho%201%20Data%201%20Integration)<br/>
@@ -50,7 +50,7 @@ For that just clck on open file icon
 2) Type pg_dump -h localhost -p 5432 -U postgres SportsDB > D:\SportsDB.sql and put your password to complete the process<br/>
 <img src="https://user-images.githubusercontent.com/69978184/136667180-01100ed5-1258-46b4-ae15-7b2a7c58f307.png" width="500" height="200"/>
 
-<a name="settinguppostgres"/>
+<a name="Setting Up Postgres"/>
 # Setting Up Postgres
 
 Access the following link in order to install pentaho at your local machine: https://medium.com/@databool/pentaho-data-integration-pdi-guia-de-instala%C3%A7%
