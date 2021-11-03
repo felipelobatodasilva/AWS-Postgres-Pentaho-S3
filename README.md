@@ -5,7 +5,7 @@
 ● [Pentaho Data Integration](#pentahodataintegration)<br/>
 &emsp;◌ [Setting Up AWS credentials to be used with Pentaho](#settingupawscredentials)<br/>
 &emsp;◌ [Creating Two Samples of Transformations in Pentaho Data Integration](#creatingtwosamples)<br/>
-&emsp;◌ [Creating a Job by Using Two Recent Transformations](#creatingajobby)<br/>
+&emsp;◌ [Creating a Job For The Most Recent Transformations](#creatingajobby)<br/>
 
 # Preparing Database to Make a Full Backup <a name="preparingdatabasetomake"></a>
 
@@ -141,7 +141,7 @@ Before starting this transformation, it will be needed to select four items to c
 
 <img src="https://user-images.githubusercontent.com/69978184/139680609-744639db-c8a2-44bf-aab0-71696c669bc6.png" width="500" height="300"/>
 
-## Creating a Job by Using Two Recent Transformations <a name="creatingajobby"></a>
+## Creating a Job For The Most Recent Transformations <a name="creatingajobby"></a>
 
 When tinking with the system, you can see this icon <img src="https://user-images.githubusercontent.com/69978184/140004693-ac0367f7-cec7-4fc2-bff3-2e4c1122afa7.png" width="20" height="20"/> and choose either job or transformation. In this case, we're gonna click on job and then build this until its design will be something like as shown below:
 
