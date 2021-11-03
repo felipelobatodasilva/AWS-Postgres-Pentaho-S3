@@ -3,6 +3,7 @@
 ● [Setting Up Postgres](#settinguppostgres)<br/>
 &emsp;◌ [Connecting Postgres with Pentaho](#connectingpostgrestopentaho)<br/>
 ● [Pentaho Data Integration](#pentahodataintegration)<br/>
+&emsp;◌ [Setting Up AWS credentials to be used with Pentaho](#settingupawscredentials)<br/>
 &emsp;◌ [Creating two samples of Transformations in Pentaho Data Integration](#creatingtwosamples)<br/>
 
 # Preparing Database to Make a Full Backup <a name="preparingdatabasetomake"></a>
@@ -74,7 +75,7 @@ if you wanna check whether the connection is working properly or not, just click
 
 # Pentaho Data Integration <a name="pentahodataintegration"></a>
 
-## Setting Up AWS credentials to be used with Pentaho
+## Setting Up AWS credentials to be used with Pentaho <a name="settingupawscredentials"></a>
 
 We're gonna use S3 with Pentaho further, then before that We'll need to set up the credentials to make it possible.
 
