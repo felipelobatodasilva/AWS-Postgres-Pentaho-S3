@@ -50,8 +50,8 @@ For that just clck on open file icon
 2) Type pg_dump -h localhost -p 5432 -U postgres SportsDB > D:\SportsDB.sql and put your password to complete the process<br/>
 <img src="https://user-images.githubusercontent.com/69978184/136667180-01100ed5-1258-46b4-ae15-7b2a7c58f307.png" width="500" height="200"/>
 
-<a name="Setting Up Postgres"/>
-# Setting Up Postgres
+
+## Setting Up Postgres
 
 Access the following link in order to install pentaho at your local machine: https://medium.com/@databool/pentaho-data-integration-pdi-guia-de-instala%C3%A7%
 
