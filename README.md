@@ -80,7 +80,7 @@ if you wanna check whether the connection is working properly or not, just click
 
 We're gonna use S3 with Pentaho further, then before that We'll need to set up the credentials to make it possible.
 
-For that is requested to have an AWS Access Key ID and Secret Access Key and can get to learn how to get it [here](https://medium.com/@Rajendrasinh/aws-access-key-id-and-secret-access-key-for-iam-user-8e3625ea850)
+For that is requested to have an AWS Access Key ID and Secret Access Key and you can get to learn how to get it [here](https://medium.com/@Rajendrasinh/aws-access-key-id-and-secret-access-key-for-iam-user-8e3625ea850)
 
 After that you can access the provided [link](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html) by AWS where you can follow the step-by-step guide
 
